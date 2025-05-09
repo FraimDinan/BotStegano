@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import os
 
 # Ganti dengan token dari BotFather
-BOT_TOKEN = '7779794805:AAEX4KQk2r1dSTpt0aAjNtbsvXtDNAMK_Nw'
+BOT_TOKEN = 'ISI TOKEN BOT'
 
 TEMP_DIR = 'temp_files'
 os.makedirs(TEMP_DIR, exist_ok=True)
